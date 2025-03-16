@@ -138,7 +138,7 @@ From development environment tools like Jira, Confluence, or GitHub, the API can
 
 ## Contributing
 
-We welcome contributions from the community! Whether you’re a developer, designer, or documentation enthusiast, there are many ways to get involved.
+We welcome contributions from the community. Whether you’re a developer, designer, or documentation enthusiast, there are many ways to get involved.
 
 ### How to Contribute
 1. **Fork the Repository:** Create your own copy of the repository.
